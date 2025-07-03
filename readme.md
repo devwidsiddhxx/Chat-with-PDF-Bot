@@ -10,7 +10,7 @@ An intelligent, fully local PDF Question-Answering app built with **LangChain**,
 - ✅ Uses `all-MiniLM-L6-v2` from Hugging Face for fast, lightweight embeddings
 - ✅ Stores vector embeddings locally using **FAISS**
 - ✅ Semantic search for most relevant chunks
-- ✅ ChatGPT (via OpenRouter) for accurate answers
+- ✅ ChatGPT (via OpenRouter) for accurate answers,Groq
 - ✅ Clean and responsive UI with **Streamlit**
 - ✅ Works entirely offline for retrieval (only API call is for LLM)
 
