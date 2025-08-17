@@ -1,4 +1,4 @@
-# 💬 Chat with PDF using LangChain, Hugging Face & OpenRouter
+# 💬 Chat with PDF using LangChain, Hugging Face & OpenRouter - Policy Reader
 
 An intelligent, fully local PDF Question-Answering app built with **LangChain**, **FAISS**, **Hugging Face Embeddings**, and **OpenRouter (ChatGPT)**. Just upload your PDF(s), ask questions, and get context-aware answers instantly.
 
